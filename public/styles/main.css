@@ -1,0 +1,27 @@
+.cert-desc{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.certificate{
+    border: solid black;
+    border-radius: 5px;
+}
+.tagline{
+    margin-top: 2rem;
+    font-style: italic;
+    font-family: cursive;
+}
+
+.profile_pic{
+    border-radius: 50%;
+    border: solid black;
+    height: 10rem;
+    width: 10rem;
+    margin-bottom: 3rem;
+}
+
+a{
+    padding-top: 5rem;
+}
+
